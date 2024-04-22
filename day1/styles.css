@@ -35,6 +35,13 @@ span{
     color: var(--DarkCharcoal);
     font-weight: bold;
 }
+@media screen and (min-width: 400px) {
+  .omelete-img img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+}
   .omelete-img {
     display: flex;
     justify-content: center;
@@ -68,6 +75,9 @@ span{
       color: var(--DarkRaspberry) !important;
     }
   }
+  .Instructions ol::marker {
+    color: var(--Nutmeg);
+  }
   .ingredients{
    li{
     padding-left: 20px;
@@ -100,3 +110,5 @@ span{
     }
   }
 }
+
+
