@@ -8,10 +8,10 @@ Decidi iniciar este desafio para aprimorar minhas habilidades de front-end, apre
 
 ## Regras
 
-1. Dedico pelo menos uma hora por dia ao estudo de front-end.
-2. Aprendo e pratico diferentes conceitos, ferramentas e tecnologias, como HTML, CSS, JavaScript, frameworks front-end, etc.
-3. Construo projetos pequenos e significativos para aplicar o que aprendi.
-4. Mantenho um registro diário do meu progresso e aprendizado.
+1. :clock1: Dedico pelo menos uma hora por dia ao estudo de front-end.
+2. :books: Aprendo e pratico diferentes conceitos, ferramentas e tecnologias, como HTML, CSS, JavaScript, frameworks front-end, etc.
+3. :hammer_and_wrench: Construo projetos pequenos e significativos para aplicar o que aprendi.
+4. :notebook: Mantenho um registro diário do meu progresso e aprendizado.
 
 ## Progresso
 
@@ -23,9 +23,9 @@ Decidi iniciar este desafio para aprimorar minhas habilidades de front-end, apre
 
 Aqui estão alguns dos projetos que estou trabalhando durante o desafio:
 
-1. **Site Pessoal**: Um site pessoal para mostrar meu portfólio, habilidades e experiência.
-2. **Clone de uma página de mídia social**: Um clone de uma página de mídia social para praticar layout e design responsivo.
-3. **Aplicativo de Lista de Tarefas**: Um aplicativo de lista de tarefas simples para praticar manipulação do DOM e eventos JavaScript.
+1. :computer: **Site Pessoal**: Um site pessoal para mostrar meu portfólio, habilidades e experiência.
+2. :iphone: **Clone de uma página de mídia social**: Um clone de uma página de mídia social para praticar layout e design responsivo.
+3. :clipboard: **Aplicativo de Lista de Tarefas**: Um aplicativo de lista de tarefas simples para praticar manipulação do DOM e eventos JavaScript.
 
 ## Contribuindo
 
