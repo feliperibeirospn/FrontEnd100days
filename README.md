@@ -15,8 +15,8 @@ Decidi iniciar este desafio para aprimorar minhas habilidades de front-end, apre
 
 ## Progresso
 
-- [Dia 1: Introdução ao HTML e estrutura básica de uma página web](/progress/dia01.md)
-- [Dia 2: Estilização com CSS: seletores, propriedades básicas](/progress/dia02.md)
+- [Dia 1: Introdução ao HTML com CSS e estrutura básica de uma página web](/day1)
+- [Dia 2:.. ]
 - [Dia 3: ...]
 
 ## Projetos
